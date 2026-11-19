@@ -1,0 +1,10 @@
+{
+  "name": "Island Jackpot",
+  "short_name": "Island Jackpot",
+  "description": "A free Caribbean-inspired arcade with seven original games and virtual coins.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#071a2b",
+  "theme_color": "#071a2b",
+  "icons": []
+}
